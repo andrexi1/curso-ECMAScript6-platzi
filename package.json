@@ -9,5 +9,8 @@
   "author": "andres barrera <andresbarrera427@gmail.com>",
   "license": "MIT",
   "type": "module",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
